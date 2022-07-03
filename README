@@ -1,0 +1,4 @@
+This is my solution to the task 'Ameisenfutter' of the 34th Computer Science competition
+'Bundeswettbewerb Informatik' hosted by the Federal Republic of Germany. Ants move randomly around
+until they found a food source and start bringing it back to their nest. When an ant carries food it 
+leaves a little pheromon track guiding other ants to the food as well.
